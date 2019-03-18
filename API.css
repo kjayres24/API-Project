@@ -1,5 +1,26 @@
 body {
-        background-image: url("./Images/Totoro.jpg");
+        background-image: url("./Images/totoro2.jpg");
         background-size: cover;
         background-repeat: no-repeat;
+        text-align: center;
+        background-attachment: fixed;
+        
+        
+    
 }
+
+
+section {
+        background-color: tan;
+        margin-right: 200px;
+        margin-left: 200px;
+        opacity: .8;
+}
+
+.jumbotron {
+       background: none;
+       opacity: .6;
+       
+     
+}
+
